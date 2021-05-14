@@ -1,0 +1,17 @@
+C:\Pessoal\OData\OData.API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Pessoal\OData\OData.API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Pessoal\OData\OData.API\bin\Debug\netcoreapp2.1\OData.API.deps.json
+C:\Pessoal\OData\OData.API\bin\Debug\netcoreapp2.1\OData.API.runtimeconfig.json
+C:\Pessoal\OData\OData.API\bin\Debug\netcoreapp2.1\OData.API.runtimeconfig.dev.json
+C:\Pessoal\OData\OData.API\bin\Debug\netcoreapp2.1\OData.API.dll
+C:\Pessoal\OData\OData.API\bin\Debug\netcoreapp2.1\OData.API.pdb
+C:\Pessoal\OData\OData.API\obj\Debug\netcoreapp2.1\OData.API.csprojAssemblyReference.cache
+C:\Pessoal\OData\OData.API\obj\Debug\netcoreapp2.1\OData.API.AssemblyInfoInputs.cache
+C:\Pessoal\OData\OData.API\obj\Debug\netcoreapp2.1\OData.API.AssemblyInfo.cs
+C:\Pessoal\OData\OData.API\obj\Debug\netcoreapp2.1\OData.API.csproj.CoreCompileInputs.cache
+C:\Pessoal\OData\OData.API\obj\Debug\netcoreapp2.1\OData.API.RazorAssemblyInfo.cache
+C:\Pessoal\OData\OData.API\obj\Debug\netcoreapp2.1\OData.API.RazorAssemblyInfo.cs
+C:\Pessoal\OData\OData.API\obj\Debug\netcoreapp2.1\OData.API.RazorTargetAssemblyInfo.cache
+C:\Pessoal\OData\OData.API\obj\Debug\netcoreapp2.1\OData.API.dll
+C:\Pessoal\OData\OData.API\obj\Debug\netcoreapp2.1\OData.API.pdb
+C:\Pessoal\OData\OData.API\obj\Debug\netcoreapp2.1\OData.API.genruntimeconfig.cache
